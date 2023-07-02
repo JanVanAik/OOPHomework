@@ -2,9 +2,10 @@ package Lesson_1;
 
 public class Kid extends BaseAnimal{
     String Voice;
+    private Integer IphoneCounter = 0;
 
-    public Kid(String name, String fur, String height, Integer age, String voice){
-        super(name, fur, height, age);
+    public Kid(String name, String height, Integer age, String voice){
+        super(name, height, age);
         this.Voice = voice;
 
     }
@@ -12,6 +13,12 @@ public class Kid extends BaseAnimal{
         return super.Voice() + Voice;
     }
 
-    public
+    public String getIphoneCounter() {
+        return " This child has " + IphoneCounter.toString() + " Ihpones";
+    }
+
+    public void DemandIphone(){
+        IphoneCounter +=1;
+    }
 }
 
