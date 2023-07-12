@@ -46,7 +46,7 @@ public class task_1 {
         }
 
         public Integer getWeight(){
-            Integer result = 0;
+            int result = 0;
             for (Fruit fruit: this.FruitBox) {
                 result += fruit.getWeight();
             }
