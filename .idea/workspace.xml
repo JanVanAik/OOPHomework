@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63ea30a6-5dc9-4188-a28b-139d080c6d78" name="Changes" comment="Base copy of all architecture + teacher architecture">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_07_2023,_20_45_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_07_2023__20_45__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_5/UniversityApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_5/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_5/main.java" afterDir="false" />
-    </list>
+    <list default="true" id="63ea30a6-5dc9-4188-a28b-139d080c6d78" name="Changes" comment="Base copy of all architecture + teacher architecture" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
