@@ -1,6 +1,6 @@
 package Lesson_6.work2;
 
-public class AccountReportGenerator implements ReportGenerator{
+public class AccountReportGenerator implements ReportGenerator {
 
     @Override
     public String generateXml() {
